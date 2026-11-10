@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/chronos-glass/',
     plugins: [react(), tailwindcss()],
     resolve: {
       dedupe: ['react', 'react-dom'],
