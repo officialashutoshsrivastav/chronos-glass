@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Glass — 3D Horological Timepiece",
+  "description": "An interactive 3D glassmorphism and neomorphism digital timepiece featuring spatial lighting, real-time parallax reflections, and synthesized Web Audio escapement acoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
